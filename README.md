@@ -1,7 +1,7 @@
 # Voter Registration Application
 
 ## Overview
-This repository contains a Python script developed as part of my college coursework. The project demonstrates my proficiency in Python and my ability to validate user input and guide users through a structured process. This coursework is part of my SDEV 300 class at the University of Maryland Global Campus.
+This repository contains a Python script developed as part of my college coursework. The project demonstrates my proficiency in Python and my ability to validate user input and guide users through a structured process. This coursework is part of my Building Secure Python Applications (SDEV 300) class at the University of Maryland Global Campus.
 
 ## Table of Contents
 1. [Project Purpose](#project-purpose)
